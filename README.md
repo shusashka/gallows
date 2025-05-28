@@ -35,3 +35,25 @@
 Экран выбора сложности для режима “Игра с компьютером”:
 
 ![image](https://github.com/user-attachments/assets/be93c5b7-34b8-4170-98d1-83b7d0203b01)
+
+Экран ввода слова для режима “Игр на двоих”:
+
+![image](https://github.com/user-attachments/assets/d55fed82-4c3e-4cd4-9005-41fd8b4ba5df)
+
+Основной игровой интерфейс:
+
+![image](https://github.com/user-attachments/assets/5535b76d-f0c7-4fdc-9247-6c9a15018a62)
+
+Игровой интерфейс в процессе игры:
+
+![image](https://github.com/user-attachments/assets/0f34d5a9-ac42-4ae9-a1e5-d5e896376daa)
+
+Проигрыш игрока:
+
+![image](https://github.com/user-attachments/assets/91ff4125-5960-49b1-9373-473826879dd8)
+
+Победа игрока:
+
+![image](https://github.com/user-attachments/assets/a48d2f9f-a575-4ef2-8e7f-1dc9d5709a2d)
+
+
