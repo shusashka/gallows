@@ -24,3 +24,14 @@
 
 Никаких сложных комбинаций - только интуитивный посимвольный ввод, что делает игру доступной даже для новичков.
 # Скриншоты интерфейса
+Главное меню:
+
+![image](https://github.com/user-attachments/assets/51beb016-1e66-448d-bb52-ea8694d93be2)
+
+Экран выбора режима игры:
+
+![image](https://github.com/user-attachments/assets/adfdbb56-c46c-4204-8688-02ebb22bf37b)
+
+Экран выбора сложности для режима “Игра с компьютером”:
+
+![image](https://github.com/user-attachments/assets/be93c5b7-34b8-4170-98d1-83b7d0203b01)
